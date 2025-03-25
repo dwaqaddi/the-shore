@@ -1,0 +1,341 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Shore 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/the-shore\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T05:58:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "The Shore"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/the-shore/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Shore is a sleek and elegant WordPress theme designed specifically for hotels and resorts. It offers three distinct color variations, allowing you to customize the look and feel to match your brand perfectly. With its clean and modern design, The Shore provides a seamless and user-friendly experience for visitors. Its layout is thoughtfully crafted to showcase your property’s features, amenities, and services, making it easy to attract and engage potential guests. Ideal for creating a professional online presence, The Shore combines aesthetics with functionality, ensuring your hotel or resort stands out in the competitive hospitality industry."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:38
+msgid "No posts have been found."
+msgstr ""
+
+#: patterns/header-homepage.php
+msgctxt "Pattern title"
+msgid "header-homepage"
+msgstr ""
+
+#: patterns/header-homepage.php:11
+msgid "The terrace of a hotel near the sea"
+msgstr ""
+
+#: patterns/header-homepage.php:41
+msgid "Welcome to The Shore"
+msgstr ""
+
+#: patterns/header-homepage.php:45
+msgid "A luxurious and sophisticated lifestyle in the middle of nature in one of the most popular destinations around the world."
+msgstr ""
+
+#: patterns/header-homepage.php:50
+msgid "Book Now"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/home.php:23
+msgid "A private compound on the coast, The Shore invites you into an elegant contemporary space that is bright and airy by day, and intriguing by night, lit up with romantic, shimmering lights."
+msgstr ""
+
+#: patterns/home.php:28
+msgid "A beach umbrella in front of the sea"
+msgstr ""
+
+#: patterns/home.php:37
+msgid "Aerial shot of a small tropical island with a hotel between the trees"
+msgstr ""
+
+#: patterns/home.php:39
+msgid "Immerse yourself in a luxurious and sophisticated lifestyle amidst the serene beauty of Turks and Caicos, one of the world’s most sought-after destinations."
+msgstr ""
+
+#: patterns/home.php:53
+msgid "Seaview &amp; Deluxe Rooms"
+msgstr ""
+
+#: patterns/home.php:58
+msgid "Explore Rooms"
+msgstr ""
+
+#: patterns/home.php:69
+msgid "Wake up to stunning vistas of the turquoise Caribbean waters. Our rooms provide a tranquil retreat, complete with luxurious bedding, contemporary furnishings, and a private balcony to enjoy the mesmerizing ocean views."
+msgstr ""
+
+#: patterns/home.php:74
+msgid "A beautiful hotel room with views to the sea"
+msgstr ""
+
+#: patterns/home.php:78
+msgid "A rainfall shower head on a spa room"
+msgstr ""
+
+#: patterns/home.php:90
+msgid "A waiter filling up some wine glasses"
+msgstr ""
+
+#: patterns/home.php:92
+msgid "Bars &amp; Restaurant"
+msgstr ""
+
+#: patterns/home.php:96
+msgid "Enjoy a cocktail at our stylish bar, or savor a fine dining experience with a backdrop of stunning ocean views."
+msgstr ""
+
+#: patterns/home.php:101
+msgid "Discover Bars &amp; Restaurant"
+msgstr ""
+
+#: patterns/home.php:117
+msgid "Lounge by our crystal-clear pool, take a leisurely stroll along the powdery white sands, or dive into the warm Caribbean waters. Whether you seek tranquility or excitement, our pool and beach amenities cater to all your desires."
+msgstr ""
+
+#: patterns/home.php:132
+msgid "A woman swimming in an infinity pool looking at the sea"
+msgstr ""
+
+#: patterns/home.php:138
+msgid "A hotel pool near a tropical forest"
+msgstr ""
+
+#: patterns/home.php:144
+msgid "A view of a hotel from the pool"
+msgstr ""
+
+#: patterns/home.php:162
+msgid "The Shore Spa®"
+msgstr ""
+
+#: patterns/home.php:167
+msgid "Experience a holistic approach to wellness in our tranquil spa setting, where every detail is crafted for your ultimate comfort."
+msgstr ""
+
+#: patterns/home.php:177
+msgid "The hands of a masseuse working on someone's back"
+msgstr ""
+
+#: patterns/home.php:181
+msgid "A massage room with two beds with a view to the trees and a pool"
+msgstr ""
+
+#: patterns/home.php:185
+msgid "A woman doing a heart sign with her hands, sitting in a pool"
+msgstr ""
+
+#: patterns/home.php:191
+msgid "Explore Treatments"
+msgstr ""
+
+#: patterns/home.php:202
+msgid "Sign up and get 5% discount"
+msgstr ""
+
+#: patterns/home.php:206
+msgid "To receive updates about exclusive experiences, sign up to our newsletter. Get a 5% discount on your first booking."
+msgstr ""
+
+#: patterns/home.php:211
+msgid "Sign Up"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/index.php:35
+msgid "There are no posts yet."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: patterns/search.php:44
+msgid "No results match your search."
+msgstr ""
+
+#: styles/clay-mask.json
+#: styles/deep-sea.json
+#: styles/pristine-white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/clay-mask.json
+#: styles/deep-sea.json
+#: styles/pristine-white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/clay-mask.json
+#: styles/deep-sea.json
+#: styles/pristine-white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/clay-mask.json
+#: styles/deep-sea.json
+#: styles/pristine-white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/clay-mask.json
+#: styles/deep-sea.json
+#: styles/pristine-white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/clay-mask.json
+msgctxt "Style variation name"
+msgid "Clay Mask"
+msgstr ""
+
+#: styles/deep-sea.json
+msgctxt "Style variation name"
+msgid "Deep Sea"
+msgstr ""
+
+#: styles/pristine-white.json
+msgctxt "Style variation name"
+msgid "Pristine White"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Overlay behind text, fading to transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Step 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Step 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Step 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Step 4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Step 5"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spectral"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Commissioner"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Homepage"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
