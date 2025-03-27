@@ -745,5 +745,12 @@
 		}
 	],
 	"version": 2,
+	"customTemplates": [
+		{
+		"name": "single-yacht",
+		"title": "Single Yacht",
+		"postTypes": ["yacht"]
+		}
+	],
 	"$schema": "https://schemas.wp.org/wp/6.5/theme.json"
 }
